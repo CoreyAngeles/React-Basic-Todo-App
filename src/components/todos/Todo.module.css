@@ -1,0 +1,20 @@
+.todo {
+  background-color: #fff;
+  color: black;
+  width: 50%;
+  margin: 20px auto;
+  font-size: 45px;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 5px 6px 17px 1px rgba(0, 0, 0, 0.5);
+}
+
+.todo p {
+  font-size: 20px;
+}
+
+.icon {
+  color: coral;
+  font-size: 60px;
+  margin-right: 20px;
+}

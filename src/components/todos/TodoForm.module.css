@@ -1,0 +1,26 @@
+.TodoFormContainer {
+  margin-bottom: 30px;
+}
+
+.TodoFormContainer form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.TodoFormContainer input {
+  padding: 10px;
+  width: 45%;
+  height: 45px;
+  font-size: 30px;
+}
+
+.TodoFormContainer button {
+  margin-left: 20px;
+  font-size: 30px;
+  padding: 16px;
+}
+
+.TodoFormContainer button:hover {
+  background-color: lightpink;
+}
